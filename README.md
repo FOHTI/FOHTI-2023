@@ -40,7 +40,7 @@ We look forward to receiving your submissions and to welcoming you to the FAIR O
 ## Organizers: 
 Asiyah Yu Lin  0000-0003-2620-0345
 
-Anna Maria Masci 
+Anna Maria Masci  0000-0003-1940-6740
 
 
 ## Reference:
