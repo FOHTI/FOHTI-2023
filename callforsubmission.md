@@ -31,7 +31,7 @@ Submission Deadline: **June 16, 2023**
 
 Notification of Acceptance: **June 23, 2023**
 
-Workshop Date: August 30, 2023
+Workshop Date: August 29, 2023
 
 We look forward to receiving your submissions and to welcoming you to the FAIR Ontology Harmonization Workshop!
 
