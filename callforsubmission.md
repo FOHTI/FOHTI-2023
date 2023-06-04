@@ -36,12 +36,13 @@ Workshop Date: August 29, 2023
 We look forward to receiving your submissions and to welcoming you to the FAIR Ontology Harmonization Workshop!
 
 ## Organizers: 
-Asiyah Yu Lin  0000-0003-2620-0345 asiyah.lin@nih.gov 
+Asiyah Yu Lin  0000-0003-2620-0345
 
 Anna Maria Masci 
 
 
 ## Reference:
 1.Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR guiding principles for scientific data management and stewardship. Sci Data. 2016;3:160018.([link to paper](https://www.nature.com/articles/sdata201618))
+
 2 Lin D, Crabtree J, Dillo I, Downs RR, Edmunds R, Giaretta D, De Giusti M, L'Hours H, Hugo W, Jenkyns R, Khodiyar V, Martone ME, Mokrane M, Navale V, Petters J, Sierman B, Sokolova DV, Stockhause M, Westbrook J. The TRUST Principles for digital repositories. Sci Data. 2020 May 14;7(1):144. doi: 10.1038/s41597-020-0486-7. PMID: 32409645; PMCID: PMC7224370. ([link to paper](https://www.nature.com/articles/s41597-020-0486-7)) 
 
