@@ -29,13 +29,15 @@ Open Science and the FAIR principles are essential for advancing scientific rese
 - Manuscripts should be formatted using the following [ICBO 2023 template](https://icbo-conference.github.io/icbo2023/call-for-submissions/#submission-format-workshops-tutorials-papers-and-abstracts).  
 
 ## Important Dates: 
-Submission Deadline: Friday **July 14, 2023***
+Submission Deadline: Friday **July 14, 2023****
 
-Notification of Acceptance: Friday **July 21, 2023***
+Notification of Acceptance: Friday **July 21, 2023****
 
 Workshop Date: **August 29, 2023**
 
 We look forward to receiving your submissions and to welcoming you to the FAIR Ontology Harmonization Workshop!
+
+** If an early approval letter is needed for traveling purposes, please reach out to asiyah.lin@axleinfo.com for further assistance. 
 
 ## Organizers: 
 Asiyah Yu Lin  0000-0003-2620-0345
