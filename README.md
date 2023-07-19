@@ -26,7 +26,7 @@ Open Science and the FAIR principles are essential for advancing scientific rese
 - Extended abstracts can be 1-2 pages; 
 - short-length manuscripts for workshops are generally 5-6 pages.
 - Manuscripts must be submitted as PDFs via [Google Form](https://forms.gle/2rSkez3iNrKYNois5).
-- Manuscripts should be formatted using the following [ICBO 2023 template](https://icbo-conference.github.io/icbo2023/call-for-submissions/#submission-format-workshops-tutorials-papers-and-abstracts).  
+- Manuscripts should be formatted using the following [ICBO 2023 template](https://www.icbo2023.ncor-brasil.org/call.html#callForSubmissions).  
 
 ## Important Dates: 
 Submission Deadline: Friday **July 14, 2023****
