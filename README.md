@@ -17,7 +17,7 @@ To address those challenges, we are pleased to announce the **FOHTI-2023:FAIR On
 - Use cases and success stories of FAIR ontology harmonization
 
 ## Publication
-All workshop submissions are eligible to be published with the conference proceeding and presented as a poster for the main ICBO conference. The workshop paper can be either extended abstract or the full paper. Accepted papers will be made available on the workshop website.
+Accepted papers and presentations will be made available on the workshop website.
 
 ## Open Science and FAIR Principle
 Open Science and the FAIR principles are essential for advancing scientific research and promoting knowledge sharing. Our workshop embraces the practice of Open Science and FAIR principles. All material including submission, slides, and videos will be made publicly available after the workshop. All submissions should obtain DOIs for the submission and related material via a generalist repository (such as [Zenodo](https://zenodo.org/), [OSF](https://osf.io/), and [other general repositories](https://www.nlm.nih.gov/NIHbmic/generalist_repositories.html)).
