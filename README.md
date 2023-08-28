@@ -17,7 +17,7 @@
 
  - 3:15 - 3:45 PM Operationalizing open data principles to evaluate and integrate ontologies (virtual & in-person) by Mathias Brochhausen & Bjoern Peters (25min & 5min Q&A)
  - 3:45 - 4:15 PM An Interactive Dashboard for Ontology Quality Monitoring (virtual) by Petr Křemen (25min & 5min Q&A)
- - 4:15 - 4:45 PM FAIR ontology development: Is FAIR enough or do we need more?  (virtual) by Asiyah Lin & Anna Maria Masci  (25min & 5min Q&A)
+ - 4:15 - 4:45 PM Ontological Unpacking as Explanation  (in person) by Giancarlo Guizzardi  (25min & 5min Q&A)
  - 4:45 - 5:30 PM Open discussion - Theme: What makes a good ontology?  
  - 5:30 - 5:45 PM Closing remark by Asiyah Lin
 
