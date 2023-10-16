@@ -15,7 +15,7 @@
 
 **Part 2: 3:15PM - 5:45PM Brasilia / 2:15 - 4:45 PM New York / 7:15 - 9:45 PM London**
 
- - 3:15 - 3:45 PM Operationalizing open data principles to evaluate and integrate ontologies (in-person) by Mathias Brochhausen (25min & 5min Q&A)
+ - 3:15 - 3:45 PM Operationalizing open data principles to evaluate and integrate ontologies (in-person) by Mathias Brochhausen ([recording](https://youtu.be/dJeIg7Pelr0)) (25min & 5min Q&A)
  - 3:45 - 4:15 PM An Interactive Dashboard for Ontology Quality Monitoring (virtual) by Avetis Mkrtchian ([recording](https://youtu.be/4II1op-bexc)) (25min & 5min Q&A)
  - 4:15 - 4:45 PM Ontological Unpacking as Explanation  (in person) by Giancarlo Guizzardi  (25min & 5min Q&A)
  - 4:45 - 5:30 PM Open discussion - Theme: What makes a good ontology?  
